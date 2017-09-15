@@ -1,0 +1,7 @@
+C:\Users\Sakit\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\CalculatorProgram.exe.config
+C:\Users\Sakit\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\CalculatorProgram.exe
+C:\Users\Sakit\source\repos\CalculatorProgram\CalculatorProgram\bin\Debug\CalculatorProgram.pdb
+C:\Users\Sakit\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\CalculatorProgram.csprojResolveAssemblyReference.cache
+C:\Users\Sakit\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\CalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sakit\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\CalculatorProgram.exe
+C:\Users\Sakit\source\repos\CalculatorProgram\CalculatorProgram\obj\Debug\CalculatorProgram.pdb
